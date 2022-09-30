@@ -1,4 +1,4 @@
-# react-coin-tracker
+# react-crypto-tracker
 
 | tag              | skill                |
 | ---------------- | -------------------- |
